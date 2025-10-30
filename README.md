@@ -1,16 +1,18 @@
-## Hi there 👋
+# <div><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ6ODduZ2gxcHlpNzlzdzRqYXRhZDY2eTA1OXFpazVjMXg4cnljaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100"/> Bienvenid@ al GitHub de Juan Fonseca</div>
 
-<!--
-**JuanFonsecaC/JuanFonsecaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner personal]()
 
-Here are some ideas to get you started:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@diegoc19)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-fonseca-c/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+
+
+
+
+
+
+
+
+
