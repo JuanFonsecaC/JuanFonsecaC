@@ -1,4 +1,4 @@
-# <div><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ6ODduZ2gxcHlpNzlzdzRqYXRhZDY2eTA1OXFpazVjMXg4cnljaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100"/> Bienvenid@ al GitHub de Juan Fonseca</div>
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ6ODduZ2gxcHlpNzlzdzRqYXRhZDY2eTA1OXFpazVjMXg4cnljaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100"/> Bienvenid@ al GitHub de Juan Fonseca
 
 ![Banner personal]()
 
