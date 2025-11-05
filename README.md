@@ -21,7 +21,7 @@ Exploro cómo la tecnología puede potenciar la educación. En este espacio comp
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFonsecaC&layout=compact&theme=dark)
 
-<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=JuanFonsecaC&style=flat-square&color=blue" alt=""/>
 
 ## Mis ultimos videos de YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
