@@ -21,6 +21,8 @@ Exploro cómo la tecnología puede potenciar la educación. En este espacio comp
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFonsecaC&layout=compact&theme=dark)
 
+<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
+
 ## Mis ultimos videos de YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Evaluación final del modulo de fundamentos de redes - Generation Colombia - IT Support Specialist](https://ytcards.demolab.com/?id=Ymgj4z84e_c&title=Evaluaci%C3%B3n+final+del+modulo+de+fundamentos+de+redes+-+Generation+Colombia+-+IT+Support+Specialist&lang=en&timestamp=1760475540&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Evaluación final del modulo de fundamentos de redes - Generation Colombia - IT Support Specialist")](https://www.youtube.com/watch?v=Ymgj4z84e_c)
