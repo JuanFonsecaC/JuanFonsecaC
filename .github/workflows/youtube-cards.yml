@@ -19,4 +19,4 @@ jobs:
           channel_id: UCPTytyyDet2B_K5WWZbnXpA
           comment_tag_name: YOUTUBE-CARDS
       - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
-        shell: bash  
+        shell: bash
